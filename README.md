@@ -1,4 +1,4 @@
-# Uinty3d Animation 2d splite helper 
+# Uinty3d Animation 2d split helper 
 If your Animator don't fucking know how to put the animation image to together, this tool can help you save your time to merge it.
 
 `This tool is for Unity3d Sprite Animation`
