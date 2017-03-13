@@ -12,7 +12,7 @@ feature:
 * auto select all folder files.
 
 ###Usage
-Just download [here](https://github.com/hpcslag/animation2d_splite_helper/releases/download/0.0.1/Animation2d_splite_helper.zip)
+Just download [here](https://github.com/hpcslag/animation2d_splite_helper/releases/download/0.0.1/Animation2d_splite_helper.zip).
 
 ###Warring
 Recommend you to name file by number, so the file will be stable output.
