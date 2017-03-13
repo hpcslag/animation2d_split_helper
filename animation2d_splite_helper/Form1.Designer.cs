@@ -54,9 +54,9 @@
             this.folderpathlabel.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.folderpathlabel.Location = new System.Drawing.Point(13, 79);
             this.folderpathlabel.Name = "folderpathlabel";
-            this.folderpathlabel.Size = new System.Drawing.Size(49, 14);
+            this.folderpathlabel.Size = new System.Drawing.Size(126, 14);
             this.folderpathlabel.TabIndex = 1;
-            this.folderpathlabel.Text = "C:\\\\AA";
+            this.folderpathlabel.Text = "No any folder set";
             // 
             // itext1
             // 
