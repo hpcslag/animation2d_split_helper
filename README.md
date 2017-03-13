@@ -17,7 +17,7 @@ Just download [here](https://github.com/hpcslag/animation2d_splite_helper/releas
 ###Warning
 Recommend you to name file by number, so the file will be stable output.
 
-And you had better to resize image to consistent, because this tool will not help you to center images.
+And you had better to resize image to consistent, because this tool will not help you to set the image to center.
 
 ###Screenshot
 ![](http://i.imgur.com/4Chti5S.png)
