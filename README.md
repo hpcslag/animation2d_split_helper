@@ -22,3 +22,6 @@ And you had better to resize image to consistent, because this tool will not hel
 ###Screenshot
 ![](http://i.imgur.com/4Chti5S.png)
 ![](http://i.imgur.com/c28FHmx.png)
+
+###Reference
+NumericComparer is use by [vcepa - Numeric String Sort in C](https://www.codeproject.com/Articles/11016/Numeric-String-Sort-in-C).
