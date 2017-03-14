@@ -102,7 +102,7 @@ namespace animation2d_splite_helper
         private void processing_Click(object sender, EventArgs e)
         {
             Image mergeImage;
-            mergeImage = Image.FromFile(files[1]);
+            mergeImage = Image.FromFile(files[0]);
 
             float percentUnit = 100 / files.Count;
             nowProgress = percentUnit;
