@@ -11,17 +11,17 @@ feature:
 * file number by number to handle (before you have to rename your file to 1,2,3,4...etc).
 * auto select all folder files.
 
-###Usage
+### Usage
 Just download [here](https://github.com/hpcslag/animation2d_splite_helper/releases/download/0.0.1/Animation2d_splite_helper.zip).
 
-###Warning
+### Warning
 Recommend you to name file by number, so the file will be stable output.
 
 And you had better to resize image to consistent, because this tool will not help you to set the image to center.
 
-###Screenshot
+### Screenshot
 ![](http://i.imgur.com/4Chti5S.png)
 ![](http://i.imgur.com/c28FHmx.png)
 
-###Reference
+### Reference
 NumericComparer is use by [vcepa - Numeric String Sort in C](https://www.codeproject.com/Articles/11016/Numeric-String-Sort-in-C).
